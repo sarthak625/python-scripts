@@ -7,7 +7,9 @@ To use this script you need to create a KEYS.py file with your own api_key and a
 You can get these by going to https://www.flickr.com/services/api/ and clicking Create an app. 
 Also download python and the following dependencies along with this script:
 > pip install flickrapi
+
 > pip install BeautifulSoup
+
 To run :
 > python image-search.py
 
