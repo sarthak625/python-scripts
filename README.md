@@ -13,9 +13,23 @@ Also download python and the following dependencies along with this script:
 To run :
 > python image-search.py
 
-## Screenshots
+### Screenshots
 
 [![solarized dualmode](https://github.com/sarthak625/python-scripts/blob/master/screenshots/is-sc.png)](#features)
 
 [![solarized dualmode](https://github.com/sarthak625/python-scripts/blob/master/screenshots/is-sc2.png)](#features)
 
+## Password Locker
+
+A script that stores user passwords for different accounts. On passing an argument to the script the password gets copied onto the clipboard.
+
+To use download the following dependency
+
+> pip install pyperclip
+
+To run:
+> python passwordLocker.py [account]
+
+### Screenshots  
+
+[![solarized dualmode](https://github.com/sarthak625/python-scripts/blob/master/screenshots/passwordLocker.png)](#features)
